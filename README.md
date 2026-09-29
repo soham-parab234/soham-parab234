@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/deepakamalwinstar" target="_blank">
+  <a href="https://linkedin.com/in/sohamparab234" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/techwin.in" target="_blank">
+  <a href="https://instagram.com/sohamparab234" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
   &nbsp;
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
   </a>
   &nbsp;
-  <a href="mailto:soham-parab234@gmail.com">
+  <a href="mailto:sohamparab234@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   &nbsp;
@@ -82,7 +82,7 @@
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>📱 Tech Creator</h4>
-  <p><a href="https://www.instagram.com/techwin.in/" target="_blank"><b>@techwin.in</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
+  <p><a href="https://www.instagram.com/sohamparab234/" target="_blank"><b>@sohamparab234</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🤝 Collaboration</h4>
